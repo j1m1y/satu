@@ -1,0 +1,1 @@
+{"nama_formulir":[{"id":1,"nama_formulir":"tes_formulir_1"}],"nama_group_pertanyaan":[{"nama_group_pertanyaan":"nama","id_formulir":1,"tbltext_group":"nama"}],"nama":[{"id":1,"nama_pertanyaan":"nama lengkap","tbltext":"nama_lengkap","type":"text","nama_type":"edittext","isi":""}]}
